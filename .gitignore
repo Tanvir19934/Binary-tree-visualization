@@ -1,0 +1,4 @@
+# Ignore all directories
+*/
+scratch.py
+.DS_Store
